@@ -1,6 +1,6 @@
 <!-- Typing Effect Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=18a2a7&center=true&width=600&lines=Hi+there!+I'm+Heshani+Thennakoon;Software+Engineer;Full-Stack+Developer;AI+&+Data+Science+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=18a2a7&center=true&width=600&lines=Hi+there!+I'm+Heshani+Thennakoon;Software+Engineer;Full-Stack+Developer;AI+and+Data+Science+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
