@@ -1,6 +1,6 @@
 <!-- Typing Effect Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Heshani+Thennakoon;Software+Engineer+|+Full-Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Heshani+Thennakoon;Software+Engineer+|+Full-Stack+Developer|+AI+Data+Science+Engineer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 - 🏢 Intern: **LightWay IT (Pvt) Ltd**  
 - 💻 Full-Stack Development (React, Angular, ASP.NET Core, Node.js)  
 - 🧠 AI & ML Experiments (OpenCV, TensorFlow, Firebase, Python)  
-- 🎯 Leadership: Captain of University Carrom Team 2025  
+- 🎯 Leadership: Captain of University Carrom Team 2025 | Vice Captain of University Carrom Team 2024
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,blazor,html,css,python,net,mongodb,mysql,postgres,docker,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,python,net,mongodb,mysql,postgres,docker,jenkins,aws" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 1️⃣ AI Classroom Engagement System (FYP)
+### 🎓 AI Classroom Engagement Monitoring System (Final Year Project)
 <p align="center">
   <a href="https://github.com/HeshaniThennakoon/FYP"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/demo.gif" width="600" /></a>
 </p>
@@ -49,7 +49,7 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 
 ---
 
-### 2️⃣ Book Stall Reservation System
+### 📚 Book Stall Reservation System
 <p align="center">
   <a href="https://github.com/SamithDarshana/Book-Stall-Reservation-System"><img src="https://github.com/HeshaniThennakoon/first_project/raw/main/demo.gif" width="600" /></a>
 </p>
@@ -61,7 +61,7 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 
 ---
 
-### 3️⃣ Tourism Website – Fantasy Personal Tours
+### 🌍 Tourism Website – Fantasy Personal Tours
 <p align="center">
   <a href="https://fantasypersonaltours.infinityfreeapp.com/"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/tourism_demo.gif" width="600" /></a>
 </p>
@@ -69,6 +69,20 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 
 **Tech:** PHP, HTML, CSS, JS  
 🔗 [Live Site](https://fantasypersonaltours.infinityfreeapp.com/)
+🔗 [Repo](https://github.com/HeshaniThennakoon/Tourism-Website)
+
+---
+
+### ✈️ Travel Website CRM with Chatbot Integration
+<p align="center">
+  <a href="https://travellers.infinityfreeapp.com/"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/tourism_demo.gif" width="600" /></a>
+</p>
+- CRM-enabled travel website with booking & lead management
+- Integrated chatbot for destination recommendations 
+
+**Tech:** PHP, HTML, CSS, JS  
+🔗 [Live Site](https://travellers.infinityfreeapp.com/)
+🔗 [Repo](https://github.com/HeshaniThennakoon/Travel_Website)
 
 ---
 
