@@ -19,7 +19,7 @@ Hi! I'm **Heshani Thennakoon**, a passionate Software Engineer from Sri Lanka.
 I love building **efficient, scalable, and user-friendly applications** with modern tech.  
 Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of Ruhuna**.  
 
-- 🏢 Intern: **LightWay IT (Pvt) Ltd**  
+- 🏢 Software Engineer Intern: **LightWay IT (Pvt) Ltd**  
 - 💻 Full-Stack Development (React, Angular, ASP.NET Core, Node.js)  
 - 🧠 AI & ML Experiments (OpenCV, TensorFlow, Firebase, Python)  
 - 🎯 Leadership: Captain of University Carrom Team 2025 | Vice Captain of University Carrom Team 2024
