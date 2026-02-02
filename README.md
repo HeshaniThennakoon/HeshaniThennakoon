@@ -1,111 +1,92 @@
-## Hi 👋 I'm Heshani Thennakoon  
+<!-- Typing Effect Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Heshani+Thennakoon;Software+Engineer+|+Full-Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</p>
 
-🎓 Software Engineer | 💻 Full-Stack Developer | AI & Data Science Engineer
-📍 Sri Lanka 
-
-I am a passionate Software Engineering undergraduate at the **Faculty of Engineering, University of Ruhuna**, with hands-on experience in building **scalable, efficient, and user-friendly applications**. I enjoy working across the full stack, solving real-world problems, and continuously learning new technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-React-blue?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Backend-.NET-blue?style=for-the-badge&logo=.net" alt=".NET" />
+  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" alt="Firebase" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 BSc (Hons) in Computer Engineering (2021 – 2026)
-- 💼 Former **Software Engineer Intern** at **LightWay IT (Pvt) Ltd**
-- 🧠 Strong foundations in OOP, Web Development, Databases & DevOps
-- 🤝 Experience working in **Agile / Scrum** environments
+## 👨‍💻 About Me
+Hi! I'm **Heshani Thennakoon**, a passionate Software Engineer from Sri Lanka.  
+I love building **efficient, scalable, and user-friendly applications** with modern tech.  
+Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of Ruhuna**.  
+
+- 🏢 Intern: **LightWay IT (Pvt) Ltd**  
+- 💻 Full-Stack Development (React, Angular, ASP.NET Core, Node.js)  
+- 🧠 AI & ML Experiments (OpenCV, TensorFlow, Firebase, Python)  
+- 🎯 Leadership: Captain of University Carrom Team 2025  
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Languages
-- JavaScript, TypeScript, C#, Java, Python, PHP, C++
-
-### 🌐 Frontend
-- HTML, CSS, JavaScript  
-- Angular, React, Blazor, Flutter  
-
-### ⚙️ Backend
-- ASP.NET Core (.NET 6,10)  
-- Node.js, Express  
-- REST APIs  
-
-### 🗄️ Databases
-- MySQL, PostgreSQL, SQL Server  
-- MongoDB, Firebase Realtime DB  
-
-### ☁️ Tools & DevOps
-- Git & GitHub  
-- Docker, Jenkins  
-- AWS (S3)  
-- Figma  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,blazor,html,css,python,net,mongodb,mysql,postgres,docker,jenkins,aws" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
-### 🎓 AI Classroom Engagement Monitoring System (Final Year Project)
-- Real-time monitoring of student engagement, emotions & drowsiness
-- Face detection login using OpenCV
-- Firebase Realtime DB & MongoDB integration
-- Teacher dashboards, alerts & reports  
+### 1️⃣ AI Classroom Engagement System (FYP)
+<p align="center">
+  <a href="https://github.com/HeshaniThennakoon/FYP"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/demo.gif" width="600" /></a>
+</p>
+- Real-time monitoring of student engagement, emotions & drowsiness  
+- Face detection login using OpenCV & Python  
+- Firebase Realtime DB & MongoDB backend  
+- Teacher dashboards & alert system  
 
-**Tech:** HTML, CSS, JavaScript, Python, OpenCV, TensorFlow, Firebase, MongoDB  
-🔗 [GitHub Repository](https://github.com/HeshaniThennakoon/FYP)
+**Tech:** HTML, CSS, JS, Python, OpenCV, Firebase, MongoDB  
+🔗 [Repo](https://github.com/HeshaniThennakoon/FYP)
 
 ---
 
-### 📚 Book Stall Reservation System
-- Full-stack web application for stall reservations
-- JWT-based authentication
+### 2️⃣ Book Stall Reservation System
+<p align="center">
+  <a href="https://github.com/SamithDarshana/Book-Stall-Reservation-System"><img src="https://github.com/HeshaniThennakoon/first_project/raw/main/demo.gif" width="600" /></a>
+</p>
+- Full-stack web app with user authentication & reservations  
 - QR code generation & email notifications  
 
 **Tech:** Node.js, Express, TypeScript, React, MongoDB  
-🔗 [GitHub Repository](https://github.com/SamithDarshana/Book-Stall-Reservation-System)
+🔗 [Repo](https://github.com/SamithDarshana/Book-Stall-Reservation-System)
 
 ---
 
-### 🌍 Tourism Website – Fantasy Personal Tours
-- Client-based responsive tourism website
-- SEO optimization with sitemap integration  
+### 3️⃣ Tourism Website – Fantasy Personal Tours
+<p align="center">
+  <a href="https://fantasypersonaltours.infinityfreeapp.com/"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/tourism_demo.gif" width="600" /></a>
+</p>
+- Responsive tourism website with SEO & sitemap integration  
 
-**Tech:** PHP, HTML, CSS, JavaScript  
-🔗 [Live Website](https://fantasypersonaltours.infinityfreeapp.com/)
-
----
-
-### ✈️ Travel Website CRM with Chatbot Integration
-- CRM-enabled travel website with booking & lead management
-- Integrated chatbot for destination recommendations  
-
-**Tech:** PHP, HTML, CSS, JavaScript  
-🔗 [Live Website](https://travellers.infinityfreeapp.com/)
+**Tech:** PHP, HTML, CSS, JS  
+🔗 [Live Site](https://fantasypersonaltours.infinityfreeapp.com/)
 
 ---
 
 ## 📈 GitHub Stats
-![Heshani's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeshaniThennakoon&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeshaniThennakoon&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshaniThennakoon&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: thennakoonghm@gmail.com  
-- 💼 LinkedIn: [Heshani Thennakoon](https://www.linkedin.com/in/heshani-thennakoon-46538a2b7/)  
-- 🌐 Portfolio: *(Coming Soon)*  
+<p align="center">
+  <a href="mailto:thennakoonghm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/heshani-thennakoon-46538a2b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/HeshaniThennakoon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and projects. I'm always open to learning, collaboration, and new opportunities!*
-<!--
-**HeshaniThennakoon/HeshaniThennakoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Let’s build amazing software together!*
