@@ -86,14 +86,6 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeshaniThennakoon&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshaniThennakoon&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:thennakoonghm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
