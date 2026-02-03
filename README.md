@@ -39,9 +39,13 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 <p align="center">
   <a href="https://github.com/HeshaniThennakoon/FYP"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/demo.gif" width="600" /></a>
 </p>
+
 - Real-time monitoring of student engagement, emotions & drowsiness  
+
 - Face detection login using OpenCV & Python  
+
 - Firebase Realtime DB & MongoDB backend  
+
 - Teacher dashboards & alert system  
 
 **Tech:** HTML, CSS, JS, Python, OpenCV, Firebase, MongoDB  
@@ -53,7 +57,9 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 <p align="center">
   <a href="https://github.com/SamithDarshana/Book-Stall-Reservation-System"><img src="https://github.com/HeshaniThennakoon/first_project/raw/main/demo.gif" width="600" /></a>
 </p>
+
 - Full-stack web app with user authentication & reservations  
+
 - QR code generation & email notifications  
 
 **Tech:** Node.js, Express, TypeScript, React, MongoDB  
@@ -65,6 +71,7 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 <p align="center">
   <a href="https://fantasypersonaltours.infinityfreeapp.com/"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/tourism_demo.gif" width="600" /></a>
 </p>
+
 - Responsive tourism website with SEO & sitemap integration  
 
 **Tech:** PHP, HTML, CSS, JS  
@@ -77,7 +84,9 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 <p align="center">
   <a href="https://travellers.infinityfreeapp.com/"><img src="https://github.com/HeshaniThennakoon/FYP/raw/main/tourism_demo.gif" width="600" /></a>
 </p>
+
 - CRM-enabled travel website with booking & lead management
+
 - Integrated chatbot for destination recommendations 
 
 **Tech:** PHP, HTML, CSS, JS  
@@ -96,4 +105,5 @@ Currently pursuing **BSc (Hons) in Computer Engineering** at the **University of
 ---
 
 ⭐ *Let’s build amazing software together!*
+
 *Feel free to explore my repositories and projects. I'm always open to learning, collaboration, and new opportunities!*
